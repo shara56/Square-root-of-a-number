@@ -16,11 +16,9 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```python
-/*
 #Program to to find the square root for the given number(newton's method) using function.
 #Developed by: sharangini
 #RegisterNumber: 22003363
-*/
 def sqrt():
     x=int(input())
     b=x
